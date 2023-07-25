@@ -1,0 +1,25 @@
+tasks:
+- task1:
+    answer:
+      bleu: 0.0
+      brevity_penalty: 0.005011413359241048
+      length_ratio: 0.158830062939652
+      precisions:
+      - 0.0
+      - 0.0
+      - 0.0
+      - 0.0
+      reference_length: 56721
+      translation_length: 9009
+- task2:
+    answer:
+    - '[EOS]'
+    - '[EOS]'
+    - '[EOS]'
+    - '[EOS]'
+    - '[EOS]'
+    - '[EOS]'
+    - '[EOS]'
+    - '[EOS]'
+    - '[EOS]'
+    - '[EOS]'
